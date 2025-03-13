@@ -3,13 +3,13 @@
 A visual simulation of phosphenes - the colorful patterns and light effects that appear when your eyes are closed. This application uses Three.js to create an immersive 3D visualization of these fascinating neural phenomena.
 
 ![Phosphene Visualization](screenshots/WhatItDoes.png)
-*Animated demonstration of the phosphene visualization as seen when eyes are closed*
+*Animated demonstration of the phosphene visualization*
 
 ## What are Phosphenes?
 
 Phosphenes are the visual phenomena characterized by seeing light without light actually entering the eye. They can appear as floating geometric patterns, swirling colors, or flashing lights when you close your eyes, apply gentle pressure to your eyelids, or experience certain neurological conditions.
 
-This application aims to recreate these visual experiences in a digital format, allowing users to explore and customize the phosphene effect.
+This application aims to recreate these visual experiences in a digital format, allowing users to explore and customize the phosphene effect.  This is what I see.
 
 ## Features
 
@@ -45,7 +45,6 @@ This application aims to recreate these visual experiences in a digital format, 
 - Toggle between design mode and view mode
 - Enter fullscreen for a more immersive experience
 - Experiment with different settings to match your own phosphene experiences
-
 
 
 ## Technologies Used
